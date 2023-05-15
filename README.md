@@ -5,6 +5,8 @@ I am a software engineer at Network to Code and I am currently studying for my M
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+![](https://github-readme-stats.vercel.app/api?username=HanlinMiao)
+
 ### My Tech Stack
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-light-mode-only)
