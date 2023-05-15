@@ -1,6 +1,11 @@
 ### Hi there 👋
+I am a software engineer at Network to Code
+
+### My GitHub Stats
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+### My Tech Stack
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
