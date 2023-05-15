@@ -2,14 +2,10 @@
 I am a software engineer at Network to Code and I am currently studying for my Master of Science in Computer Science at the University of Southern California.
 
 ### My GitHub Stats
-![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://github-readme-stats.vercel.app/api?username=HanlinMiao)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=HanlinMiao&theme=react"/> </a>
 
 ### My Tech Stack
-![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HanlinMiao&theme=react"/> </a>
 
 <!--
 **HanlinMiao/HanlinMiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
