@@ -2,10 +2,10 @@
 I am a software engineer at Network to Code and I am currently studying for my Master of Science in Computer Science at the University of Southern California.
 
 ### My GitHub Stats
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=HanlinMiao&theme=react"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=HanlinMiao&theme=tokyonight&count_private=true"/> </a>
 
 ### My Tech Stack
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HanlinMiao&theme=react"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HanlinMiao&theme=tokyonight"/> </a>
 
 <!--
 **HanlinMiao/HanlinMiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
