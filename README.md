@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer at Network to Code
+I am a software engineer at Network to Code and I am currently studying for my Master of Science in Computer Science at the University of Southern California.
 
 ### My GitHub Stats
 ![](https://raw.githubusercontent.com/HanlinMiao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
