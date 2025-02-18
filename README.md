@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer at Network to Code and I recently completed my Master of Science in Computer Science at the University of Southern California.
+I am a software engineer at Network to Code. I earned a Master of Science degree in Computer Science from the University of Southern California.
 
 ### My GitHub Stats
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=HanlinMiao&theme=tokyonight&count_private=true"/> </a>
